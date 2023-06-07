@@ -1,0 +1,47 @@
+img {
+	width: 470px;
+	height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.site-name {
+	font-size: 40px;
+	font-weight: 300;
+	font-style: italic;
+	color: rgb(72, 171, 184);
+	text-align: center;
+	text-decoration: underline;
+	background-color: rgb(212, 236, 236);
+}
+
+input,
+textarea {
+  text-align: center; 
+  border: 3px solid;
+  color: rgb(15, 168, 81);
+}
+html {
+    text-align: center;
+
+  }
+
+footer {
+color: rgb(88, 224, 147); 
+background-color: rgb(232, 237, 232);
+  }
+  
+  caption {
+    color: rgb(88, 224, 147); 
+  }
+
+blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+markers {
+    text-align: center;
+}
